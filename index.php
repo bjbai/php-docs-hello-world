@@ -1,3 +1,3 @@
 <?php
 
-echo "this is a dev environment!";
+echo "This is Wajdi deploying to Azure";
