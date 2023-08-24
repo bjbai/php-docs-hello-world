@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/dfec8252-a870-4a04-b940-27c38202705f/resourceGroups/quick-resource-group/providers/Microsoft.Web/sites/quickappnortheurope/slots/quickappnortheuropestaging",
+    "appService.deploySubpath": "."
+}
